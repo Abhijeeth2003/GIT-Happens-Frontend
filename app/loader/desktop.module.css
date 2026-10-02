@@ -1,0 +1,32 @@
+/* These additions have no visible footprint below the desktop breakpoint. */
+.header, .footer { display: none; }
+
+@media (min-width: 1024px) {
+  .header {
+    position: relative;
+    z-index: 20;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin: 24px 40px 0;
+  }
+
+  /* Navbar appearance uses the Store Manager's existing dashboard-nav,
+     dashboard-orange, and sizing classes directly in LoaderDesktopChrome. */
+  .search { min-width: 0; flex: 1; position: relative; }
+  .results { position: absolute; left: 0; right: 0; top: 44px; min-width: 270px; border: 1px solid white; border-radius: 18px; padding: 8px; background: rgba(255, 255, 255, .96); backdrop-filter: blur(20px); box-shadow: 0 14px 34px -8px #0f172a40; }
+  .resultsLabel { padding: 6px 8px; color: #64748b; font-size: 11px; }
+  .results a { display: block; border-radius: 12px; padding: 10px 8px; font-size: 12px; }
+  .results a:hover { background: #ff7a1a1a; }
+  .results strong { display: block; font-weight: 700; color: #0f172a; }
+  .results a span { display: block; color: #64748b; font-size: 11px; margin-top: 3px; }
+  .footer { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; width: 100%; min-height: 46px; padding: 15px 40px 14px; border-top: 1px solid #ffffffb3; background: #ffffff66; backdrop-filter: blur(12px); font-size: 11px; line-height: 16.5px; color: #475569; }
+  .footerStatus, .footerVersion { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+  .footerStatus > span:first-child { font-weight: 600; color: #0f172a; }
+  .footerStatus i { display: inline-block; width: 6px; height: 6px; margin-right: 6px; border-radius: 50%; background: #ff7a1a; }
+  .separator { color: #cbd5e1; }
+  .mono { font-family: "JetBrains Mono", monospace; font-size: 10px; }
+  .footerVersion { gap: 16px; }
+}

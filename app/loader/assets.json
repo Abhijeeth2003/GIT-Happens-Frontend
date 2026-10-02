@@ -1,0 +1,825 @@
+{
+  "719:1651": {
+    "imgLoader01LoadingQueue": {
+      "src": "/figma/loader/a44f2ef7-d27f-40f2-81da-35700918f0b6.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/7acf0376-e5a5-411c-831b-722eb855d988.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgSvg": {
+      "src": "/figma/loader/d8fdb206-88d6-424b-8d15-5d425d27354e.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgEllipse": {
+      "src": "/figma/loader/e1710a0f-947b-4d0f-ae02-d73af2430a61.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconClock": {
+      "src": "/figma/loader/e8a56395-8928-4fe4-af95-11f95450cb93.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconTruck": {
+      "src": "/figma/loader/d824a746-0942-4774-861b-2c3a96909558.svg",
+      "width": 24.0,
+      "height": 24.0
+    },
+    "imgAttentionIndicator": {
+      "src": "/figma/loader/9bef424a-8f3b-490f-8e62-eb11e7010114.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconChev": {
+      "src": "/figma/loader/2371aa3a-7cab-4b86-88a5-2c0838769f18.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconRefresh": {
+      "src": "/figma/loader/993dbe5a-c8ce-48ef-90de-8e1a14ed2d0a.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconChev1": {
+      "src": "/figma/loader/b2052284-e14c-4f79-a8cb-ee5258a379fd.svg",
+      "width": 14.0,
+      "height": 14.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/0919debf-2c76-432c-ab69-39e1ab722a44.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconClock1": {
+      "src": "/figma/loader/fb508452-60df-4397-95f7-0253868f1390.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgFrame": {
+      "src": "/figma/loader/9c4cc74b-c438-450d-96c8-a5580fb3101e.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgFrame1": {
+      "src": "/figma/loader/9c7f064b-8743-4fac-823f-0eac33d1a533.svg",
+      "width": 14.0,
+      "height": 14.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/5ffa7a23-5541-4b9b-94de-f525c2366350.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/1fe68f5d-3792-4185-b7ae-42a89254b44e.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/d2aa7631-d6f6-4a92-942f-fa0bf961c9a4.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/ecc116d3-0e88-4244-b5bc-85e4f4019640.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  "719:1839": {
+    "imgLoader02LoadPlan": {
+      "src": "/figma/loader/ab703f38-fc48-4f19-9ffa-6cf41d349a28.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/496a2fdd-35a5-4239-b9e5-5d5e5ca4eb9a.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgIconBack": {
+      "src": "/figma/loader/83f6e642-680c-4844-9d69-120f95dbe6a3.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgEllipse": {
+      "src": "/figma/loader/88900a59-fa2a-480e-ab9c-fc7ba346c06a.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconMore": {
+      "src": "/figma/loader/4497197e-2b77-4369-8efe-f7a4df9d4b82.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconTruck": {
+      "src": "/figma/loader/490e54a5-74dc-4a44-bf12-81d3e56d4a1d.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconSnow": {
+      "src": "/figma/loader/0a70f1dd-23ac-4dba-853d-ae6d91c55e0d.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconInfo": {
+      "src": "/figma/loader/6436ff49-3018-4d0d-b213-92fd24ba1903.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/008c5bfb-8d70-4b09-af49-d610c80011a2.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconCheck1": {
+      "src": "/figma/loader/6df2ec59-9fef-4163-a8d6-ced24f3bfb04.svg",
+      "width": 13.0,
+      "height": 13.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/ce5fd4d5-99fe-44a2-a8b9-41992514c1fd.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgIconCheck2": {
+      "src": "/figma/loader/6763c154-9126-4bc0-9a71-70b83dd3d23e.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/6a109e3f-8f32-4011-8f55-c4eeeff20534.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag1": {
+      "src": "/figma/loader/92c8a07d-ad08-41fb-8a28-51b8659a4a65.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/48b2e799-e186-4f09-ba87-d6d80329c130.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/bdcd8725-3e54-4078-baa3-fdcd3bc888d3.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  "719:2025": {
+    "imgLoader03ReportAShortfall": {
+      "src": "/figma/loader/5b478dfb-8115-4e95-9764-42f6122d385d.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/9bef6fcf-cf98-4944-affa-e8f92d89932b.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgIconX": {
+      "src": "/figma/loader/9848ecf5-0800-4c44-9365-2813209624d2.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconBox": {
+      "src": "/figma/loader/003d04ee-6902-4bb0-bb60-91f5809296fc.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconSnow": {
+      "src": "/figma/loader/2daabb18-b439-48ab-a4e6-95357a282651.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconBox1": {
+      "src": "/figma/loader/75cc60ce-b949-45b7-89e6-553e8d19ae2d.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconAlert": {
+      "src": "/figma/loader/9a238845-6be2-45a9-9221-af19384b927d.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconMinus": {
+      "src": "/figma/loader/5848f1c1-5455-4323-af53-872ccc4fc8d5.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/a6b90064-bb09-41e3-beac-ce5e69bcd2d6.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconMinus1": {
+      "src": "/figma/loader/c754fb23-d941-496e-97b4-f338fd35d7df.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconPlus": {
+      "src": "/figma/loader/491de4e5-ad41-4290-b7f5-f703ccd4e99b.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconAlert1": {
+      "src": "/figma/loader/b24891f7-18a7-49ad-ae96-4d286bbc1a36.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconUser": {
+      "src": "/figma/loader/85c0e60a-5879-45f7-b100-58a6499b59f0.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconPin": {
+      "src": "/figma/loader/d154dc1d-138a-44aa-894b-91674ddf9784.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/820c72e6-cd01-476c-ac45-c5b036d0a1ad.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/38b0a4cf-b079-4877-8ab5-8bd8a8982e49.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag1": {
+      "src": "/figma/loader/01d93cb2-f855-423d-a01f-f2db3bf6efc3.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/24c91bad-e228-4c30-9acb-5eac979838a8.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/417d0847-5fde-4407-8696-41577e00d728.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  "719:2179": {
+    "imgLoader04ReviewPlanChanges": {
+      "src": "/figma/loader/4e2b3796-a28c-4d64-b527-2a4a688a98f7.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/e12f027e-7bb5-4e26-bafb-3216915e7d9a.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgIconBack": {
+      "src": "/figma/loader/10bcc00c-5cf7-4619-977c-cc4544c8b359.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgEllipse": {
+      "src": "/figma/loader/14035045-e795-4298-91ca-02ed27dab488.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconMore": {
+      "src": "/figma/loader/4b4c39cf-3b43-40e9-bf44-a40598c9c904.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconRefresh": {
+      "src": "/figma/loader/2a6dcacc-dd60-4f2d-8ffc-e79c0fc92c99.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconAlert": {
+      "src": "/figma/loader/62340c37-1798-4418-9c55-9afc9e703e1c.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconArrowdown": {
+      "src": "/figma/loader/840f8e6a-0b3a-4831-9d79-2e4799ad120e.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconArrowup": {
+      "src": "/figma/loader/4e58bda2-3c02-41de-ad5b-2c6c3107e4fc.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconRefresh1": {
+      "src": "/figma/loader/2de812a0-e64e-4d47-9b64-fd965fe9dd4f.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/21b449c7-24c3-4bb5-b185-5004dbc60d52.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconCheck1": {
+      "src": "/figma/loader/87cc7e16-4d74-47ce-9341-2d4972e0d541.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconCall": {
+      "src": "/figma/loader/45b83849-a070-4b6c-bf93-1ac21a13837a.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/c07f3be0-c18d-4a44-aec4-335709d35e80.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/aca02d9b-17f4-4b55-9026-af2699515aae.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/3a8a1bc9-44c3-4d4d-b58d-f4bec0c79f10.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/a71e9a80-c7eb-41db-8495-77f86d886b56.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  "719:2346": {
+    "imgLoader05DepartureReview": {
+      "src": "/figma/loader/c83316d2-e165-4dc1-8099-36ce0806f7de.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/447c4720-3c1e-4396-8b09-6ef8c19ab452.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgIconBack": {
+      "src": "/figma/loader/57dd90fc-2ef1-4d74-acb5-be70eb0baa8d.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgEllipse": {
+      "src": "/figma/loader/d1330867-a39d-4108-bff4-3d00d2e0d5a0.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconMore": {
+      "src": "/figma/loader/b5c7d566-c6b4-4a2a-abca-7d42f2a20de1.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/9b4a09d5-069a-4e96-bfc0-d7100723d42f.svg",
+      "width": 32.0,
+      "height": 32.0
+    },
+    "imgIconLayers": {
+      "src": "/figma/loader/ec0176be-29c2-4f92-9e80-4f2bdca690dd.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconCheck1": {
+      "src": "/figma/loader/6a8e2fbd-3f33-4cf3-9caa-40e1b1717c2b.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconThermo": {
+      "src": "/figma/loader/866c232e-5a77-4ba6-a5e9-73aa854a298a.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconPhone": {
+      "src": "/figma/loader/328646f2-f2fa-4e63-9a79-2730f51859d4.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/3a148e07-a9de-4716-97e1-d4bf94b7e9ad.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconCheck2": {
+      "src": "/figma/loader/7dc70ec5-e1c9-4879-894b-cee66a786f52.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconUser": {
+      "src": "/figma/loader/4843c369-a8dc-4be5-94e6-d0d881e2efeb.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconTruck": {
+      "src": "/figma/loader/c610ee96-10c0-46e5-ad57-5f2d2c7dea32.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/6b72f680-83d3-4371-8d6b-2bfd22c74636.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag1": {
+      "src": "/figma/loader/c47949d6-eb02-4626-8730-56276a8c1fff.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/d0fc5ba1-aede-40bc-81e9-ccda2352ad2d.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/e69bb0d8-fc6e-43bd-aee0-eb5c138a99b0.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  "719:2490": {
+    "imgLoader06LoadingHistory": {
+      "src": "/figma/loader/f3daf3a8-aa6b-4613-93ca-9bc42864d162.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/908044ed-71cb-449b-aab3-d89efd0bb90a.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgSvg": {
+      "src": "/figma/loader/e181492c-f1d5-4c23-8639-9bc92c1ab12a.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgEllipse": {
+      "src": "/figma/loader/2c3db5be-ac0a-4bbb-b881-ad7bbbbec334.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconTruck": {
+      "src": "/figma/loader/7dd6f02c-b768-4368-aef2-37092955ad2c.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconUser": {
+      "src": "/figma/loader/cfd4a62e-b388-4c04-8b36-49d8b7950bc7.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconRefresh": {
+      "src": "/figma/loader/0d0b25f7-5144-4b74-8c67-dd261643d8d5.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconChev": {
+      "src": "/figma/loader/2f8f2232-ef8b-4632-ad16-4b9726efd1d1.svg",
+      "width": 14.0,
+      "height": 14.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/7c26f88c-61a2-4d33-a343-e24607ce2a75.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/715440f7-68af-4b8c-847f-77bfaa117c5f.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconFlag1": {
+      "src": "/figma/loader/fcac44d7-0b05-4bcb-9999-cc32af5314c7.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconRefresh1": {
+      "src": "/figma/loader/f6dfdd88-5bd6-42cf-8ee7-16e9341fe9c2.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconCheck1": {
+      "src": "/figma/loader/9f9f318b-2c71-4a17-8abf-0102fa94b738.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconCal": {
+      "src": "/figma/loader/73cc0508-1df0-4d9f-af09-7f60b5a79a72.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconInfo": {
+      "src": "/figma/loader/ea707dd3-3d70-4f5f-8a57-eb8cd55be083.svg",
+      "width": 14.0,
+      "height": 14.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/73df7723-131f-4a71-be17-5189f912976b.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag2": {
+      "src": "/figma/loader/f374e43a-9483-43a8-b4d7-850bd2d72426.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/6bc952dc-6e21-44ad-97e5-982d415de55b.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/465e22d5-e9d9-4e9a-b64d-a5e9d8ea9b1c.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  "719:2716": {
+    "imgLoader07TripStatus": {
+      "src": "/figma/loader/a41e4853-26d8-4bb1-b367-bc7c53ad2a14.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/a3120a69-061c-4922-b942-2bd1b1acaf34.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgIconBack": {
+      "src": "/figma/loader/31af7ce9-c518-4880-ba19-5d00986688e1.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgEllipse": {
+      "src": "/figma/loader/c9333388-48f6-43ad-b9e6-24d83585b936.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconMore": {
+      "src": "/figma/loader/4d33ca06-86b2-4e1f-8e21-234325a9dd81.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlagPending": {
+      "src": "/figma/loader/f15255a9-31d7-409c-88de-9a744223cc03.svg",
+      "width": 30.0,
+      "height": 30.0
+    },
+    "imgIconLayers": {
+      "src": "/figma/loader/770daf20-2126-48d4-9252-567cf469284b.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlagPending1": {
+      "src": "/figma/loader/5b3bffe0-e411-42b6-bf49-ec588ea6bab3.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconThermo": {
+      "src": "/figma/loader/727e7098-2e94-4be2-bf0e-8386820ef86c.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/ca8a7a36-e634-4d58-9426-9defc1eb39ec.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconPhone": {
+      "src": "/figma/loader/9e04b2cc-d661-4f29-9e44-84ddd300af69.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlagPending2": {
+      "src": "/figma/loader/c2d2a809-d413-4d03-b11d-126c767d4902.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconUser": {
+      "src": "/figma/loader/9ab93e8b-5d61-4f1d-97ec-1f082f9b3194.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/dce458f8-8401-4903-8239-213551f85ba7.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/1d7c7ea7-dcda-4872-95e3-68c9a7232397.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag1": {
+      "src": "/figma/loader/0dc6a3c8-5993-4c2f-8992-2fa584f238f8.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/c471c41d-2dd2-4182-bc27-bc5b9aeb190b.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/cc43dd27-ae44-44cc-a794-5f74a5bc89b4.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  "719:2856": {
+    "imgLoader08PartialLoadApproved": {
+      "src": "/figma/loader/e53ebb0c-ba5d-4225-87fb-9b14f0c46c5f.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/3c630735-d6a2-431b-a22b-6746e9e06a8e.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgIconBack": {
+      "src": "/figma/loader/ff3b3477-9bfc-49d4-82a4-0926f4372413.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgEllipse": {
+      "src": "/figma/loader/3a4d822a-6f20-4a7b-8eb5-0b364a3c74a4.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconMore": {
+      "src": "/figma/loader/2e8e474c-0c5c-441e-89e8-c4388b0f5c1c.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlagPending": {
+      "src": "/figma/loader/b8947e19-30a5-427a-acbd-0ab99023eec7.svg",
+      "width": 30.0,
+      "height": 30.0
+    },
+    "imgIconLayers": {
+      "src": "/figma/loader/1bec7e7a-e768-47eb-9e8d-1b45ffbeca28.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlagPending1": {
+      "src": "/figma/loader/385f0d3d-18c5-4f93-ad6d-a96d487d058a.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconThermo": {
+      "src": "/figma/loader/bc65825d-2adb-4900-b7fc-e0e088e8658a.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/74e29869-e4fc-4256-850d-b87f4c8ac72e.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgIconPhone": {
+      "src": "/figma/loader/179d2631-fe03-4139-959d-4b88726b8d57.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlagPending2": {
+      "src": "/figma/loader/60d3d0dd-03ec-42e5-a161-fc0fc073f3b6.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconUser": {
+      "src": "/figma/loader/f2d430e1-f2e8-4a18-b0fe-1bed02c1d663.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/fbc22ab5-c46e-49c2-acfa-3568a1f8656d.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/6a9d7ee9-f62d-44b2-9d93-ba8000967735.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag1": {
+      "src": "/figma/loader/ddccf601-9fee-49d4-b230-0cd51c9da611.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/c03dde1b-eec4-4cc6-ae1f-7e92075fb95a.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/cbdc63ea-a0ad-4c88-a2e0-a1848059a8ed.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  "719:2996": {
+    "imgLoader09PlanV3Acknowledged": {
+      "src": "/figma/loader/9d8ae7b6-c103-4e5d-921f-26c9de7149ac.png",
+      "width": 390,
+      "height": 1131
+    },
+    "imgIconWifi": {
+      "src": "/figma/loader/409dd0d9-1fe1-4b31-9e98-04ca9945e568.svg",
+      "width": 16.0,
+      "height": 16.0
+    },
+    "imgSvg": {
+      "src": "/figma/loader/41c83a8b-0cb9-4fb4-ad5f-34c2b210e7fa.svg",
+      "width": 20.0,
+      "height": 20.0
+    },
+    "imgEllipse": {
+      "src": "/figma/loader/0de1fc43-404e-4ebb-b730-4c0a048b762c.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconClock": {
+      "src": "/figma/loader/2b82e92c-fb34-4012-8139-63d483d6cd04.svg",
+      "width": 12.0,
+      "height": 12.0
+    },
+    "imgIconTruck": {
+      "src": "/figma/loader/b7492a92-d454-4ea7-9b1e-b1c4712a6379.svg",
+      "width": 24.0,
+      "height": 24.0
+    },
+    "imgAttentionIndicator": {
+      "src": "/figma/loader/632a55d9-a94a-4e47-8209-08bcf985f104.svg",
+      "width": 7.0,
+      "height": 7.0
+    },
+    "imgIconChev": {
+      "src": "/figma/loader/8b3ff2cc-9054-4f5f-b972-aefeb74dd532.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconRefresh": {
+      "src": "/figma/loader/ba0cfc18-692f-4d3c-b0e8-04d035971f15.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconChev1": {
+      "src": "/figma/loader/51269459-f81d-427b-a04c-563691882e3c.svg",
+      "width": 14.0,
+      "height": 14.0
+    },
+    "imgIconCheck": {
+      "src": "/figma/loader/1cb41e90-428f-450e-aaee-3ec94b53e5e9.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgIconClock1": {
+      "src": "/figma/loader/2bae1c43-0e0f-4336-b3d8-191e3372c4a8.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgFrame": {
+      "src": "/figma/loader/5fd5ad17-4dad-4026-8b1b-7f22c859ebd8.svg",
+      "width": 18.0,
+      "height": 18.0
+    },
+    "imgFrame1": {
+      "src": "/figma/loader/0539558f-862a-480c-b3be-7331e165acc0.svg",
+      "width": 14.0,
+      "height": 14.0
+    },
+    "imgIconList": {
+      "src": "/figma/loader/5ec60e66-d953-40ad-9e04-7dc58014fdf2.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconFlag": {
+      "src": "/figma/loader/75bdff28-35e4-4b58-a221-7fbb219f30ea.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconHistory": {
+      "src": "/figma/loader/52edfbad-29dd-46e0-9751-8112e259c721.svg",
+      "width": 22.0,
+      "height": 22.0
+    },
+    "imgIconTripStatus": {
+      "src": "/figma/loader/b20f481a-f516-4aef-ba39-a6173b715494.svg",
+      "width": 20.0,
+      "height": 20.0
+    }
+  }
+}
